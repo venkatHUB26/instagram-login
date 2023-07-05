@@ -1,6 +1,6 @@
-public class AsciiValue {
+ghspublic class AsciiValue {
 
-    public static void main(String[] args) {
+   ghs public static void main(String[] args) {
 
         char ch = 'a';
         int ascii = ch;
